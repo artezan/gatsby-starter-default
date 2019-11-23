@@ -28,4 +28,4 @@ jobs:
         FTP_SERVER: ftp.theartezan.xyz
         FTP_USERNAME: u380158373.cesar1
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-        LOCAL_DIR: build
+        LOCAL_DIR: public
