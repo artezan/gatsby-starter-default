@@ -23,7 +23,7 @@ jobs:
       run: ls
       
     - name: FTP-Deploy-Action
-      uses: SamKirkland/FTP-Deploy-Action@2.0.0
+      uses: artezan/ftp-action@master
       env:
         FTP_SERVER: ftp.theartezan.xyz
         FTP_USERNAME: u380158373.cesar1
