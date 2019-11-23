@@ -17,4 +17,4 @@ jobs:
         echo test, and deploy your project.
     - name: Hello world action step
       id: hello
-      uses: actions/gatsby-starter-default/actions@v1
+      uses: artezan/ftp-action@v1
